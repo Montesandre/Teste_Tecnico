@@ -11,6 +11,7 @@ Desafios_Tecnicos/
 ├── Target3.py    # Análise de faturamento de rotina
 ├── Target4.py    # Percentual de faturamento por estado/individual
 ├── Target5.py    # Para Inversão de string
+├── faturamento.json  # Dados de faturamento diário
 └── README.md      # Instruções e descrição
 ```
 
