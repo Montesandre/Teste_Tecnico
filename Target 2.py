@@ -1,4 +1,4 @@
-## Desafio 2: Validação na Sequência de Fibonacci
+## Desafio 2: Validação de Pertinência na Sequência de Fibonacci
 
 def desafio2(numero):
     a, b = 0, 1
